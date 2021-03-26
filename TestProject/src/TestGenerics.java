@@ -9,6 +9,7 @@ public class TestGenerics {
         names.add("Vitya");
         names.add(new StringBuilder("Vera"));
         printNames(names);
+
     }
 
     static void removeItemFromList() {
